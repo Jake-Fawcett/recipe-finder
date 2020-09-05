@@ -1,0 +1,31 @@
+body {
+    background-color:white;
+    color: black;
+}
+
+
+header {
+    background-color: forestgreen;
+    color: whitesmoke;
+    font-size: 25px;
+}
+
+.raider {
+    text-align: center;
+    align-self: center;
+}
+
+.intro {
+    text-align: center;
+}
+
+ul {
+  list-style-type: none; 
+  overflow: hidden;
+
+}
+
+ul li {
+    display: inline;
+    padding: 100;
+}
